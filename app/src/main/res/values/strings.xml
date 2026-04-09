@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Podsetnik</string>
+    <string name="app_desc">Vaš pametni podsetnik</string>
+    <string name="add_reminder">Dodaj podsetnik</string>
+    <string name="edit_reminder">Uredi podsetnik</string>
+    <string name="title">Naslov</string>
+    <string name="description">Opis</string>
+    <string name="date">Datum</string>
+    <string name="time">Vreme</string>
+    <string name="save">Sačuvaj</string>
+    <string name="cancel">Otkaži</string>
+    <string name="delete">Obriši</string>
+    <string name="snooze">Odloži</string>
+    <string name="dismiss">Odbaci</string>
+    <string name="reminder">Podsetnik</string>
+    <string name="channel_alarm_name">Alarmi podsetnika</string>
+    <string name="channel_reminder_name">Podsetnici</string>
+    <string name="channel_pinned_name">Prikvačeni podsetnici</string>
+    <string name="notification_default_text">Vreme je za vaš podsetnik!</string>
+</resources>
